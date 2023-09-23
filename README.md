@@ -4,6 +4,7 @@ TR:
 Grand Theft Auto Vice City Türkçe Dil Paketi v1.0
 
 UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %85 lik bir kısmı Türkçe'ye çevrilmiştir. Uygunsuz dil içerebilir.
+
 KURULUM: "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" klasörüne gidin, ve "american.gxt" dosyasını indirdiğiniz "american.gxt" dosyasıyla değiştirin.
 
 NELER EKSIK?
