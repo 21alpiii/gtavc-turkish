@@ -21,10 +21,6 @@ PEKİ TAMAMLAMAYI DÜŞÜNÜYOR MUSUN?
 -Planım günde 15-20 dakika ayırıp geri kalan kısımları da çevirmek.
 
 
-
-
-
-
 EN:
 Grand Theft Auto Vice City Turkish Language Pack v1.0
 
