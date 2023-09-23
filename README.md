@@ -3,7 +3,7 @@
 TR:
 Grand Theft Auto Vice City Türkçe Dil Paketi v1.0
 
-UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %85 lik bir kısmı Türkçe'ye çevrilmiştir.
+UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %85 lik bir kısmı Türkçe'ye çevrilmiştir. Uygunsuz dil içerebilir.
 KURULUM: "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" klasörüne gidin, ve "american.gxt" dosyasını indirdiğiniz "american.gxt" dosyasıyla değiştirin.
 
 NELER EKSIK?
@@ -25,7 +25,7 @@ PEKİ TAMAMLAMAYI DÜŞÜNÜYOR MUSUN?
 EN:
 Grand Theft Auto Vice City Turkish Language Pack v1.0
 
-WARNING: This language pack is not completed yet. The progress should be at %85.
+WARNING: This language pack is not completed yet. The progress should be at %85. May include inappropriate language.
 HOW TO INSTALL: Go to "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" folder and change the "american.gxt" file with the new "american.gxt" file you downloaded.
 
 WHAT IS MISSING?
@@ -42,13 +42,13 @@ their game slowly; some don't even bother. That is the case here. Only differenc
 WILL THIS EVER BE COMPLETED?
 -My plan is to spend 15-20 minutes everyday on remaining untranslated part.
 
+SCREENSHOTS / EKRAN GÖRÜNTÜLERİ
 
-<img width="1280" alt="sc7" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/49223eae-1761-4f87-bfda-701c8d8d51ee">
 
-<img width="1280" alt="sc3" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/8092b4bd-adfa-47b2-8c34-8989d053c006">
-<img width="1280" alt="sc4" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/68d<img width="1280" alt="sc5" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/6065818a-d7a2-496b-b0b3-6b8b0fb3a4cb">
-<img width="1280" alt="sc2" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/2c639d2b-ef98-4133-8c8c-8bb1cea6ad9e">
-
-5f515-a4dd-4558-b5a0-58548a7f7d31"><img width="1280" alt="sc1" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/427a50b0-3b65-4221-b518-c8a04f9b399c">
-
-<img width="1280" alt="sc6" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/ae14f7fd-09d3-4994-bed0-9a2710c82eec">
+<img width="1280" alt="sc7" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/519db4f1-c788-413a-918d-7e1149d51217">
+<img width="1280" alt="sc3" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/3a491dce-2d69-4b46-8b71-c855af9e561c">
+<img width="1280" alt="sc4" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/2ab0cf43-9952-44d3-9a5b-1add0ad7acd6">
+<img width="1280" alt="sc5" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/c01c1312-3588-4eae-81de-e2a0457e2a03">
+<img width="1280" alt="sc6" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/bfdb8abb-3abd-4f19-8491-16906a209a5a">
+<img width="1280" alt="sc1" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/96c75caa-60ea-4d4e-aef8-81679d443be0">
+<img width="1280" alt="sc2" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/cb0db32b-ffc7-4cc4-854a-c97c6d69f208">
