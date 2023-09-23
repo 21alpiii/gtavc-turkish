@@ -43,4 +43,12 @@ WILL THIS EVER BE COMPLETED?
 -My plan is to spend 15-20 minutes everyday on remaining untranslated part.
 
 
+<img width="1280" alt="sc7" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/49223eae-1761-4f87-bfda-701c8d8d51ee">
 
+<img width="1280" alt="sc3" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/8092b4bd-adfa-47b2-8c34-8989d053c006">
+<img width="1280" alt="sc4" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/68d<img width="1280" alt="sc5" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/6065818a-d7a2-496b-b0b3-6b8b0fb3a4cb">
+<img width="1280" alt="sc2" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/2c639d2b-ef98-4133-8c8c-8bb1cea6ad9e">
+
+5f515-a4dd-4558-b5a0-58548a7f7d31"><img width="1280" alt="sc1" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/427a50b0-3b65-4221-b518-c8a04f9b399c">
+
+<img width="1280" alt="sc6" src="https://github.com/21alpiii/gtavc-turkish/assets/142519958/ae14f7fd-09d3-4994-bed0-9a2710c82eec">
