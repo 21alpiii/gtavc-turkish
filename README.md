@@ -3,13 +3,12 @@
 TR:
 Grand Theft Auto Vice City Türkçe Dil Paketi v1.0
 
-UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %85 lik bir kısmı Türkçe'ye çevrilmiştir. Uygunsuz dil içerebilir.
+UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %95 lik bir kısmı Türkçe'ye çevrilmiştir. Uygunsuz dil içerebilir.
 
 KURULUM: "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" klasörüne gidin, ve "american.gxt" dosyasını indirdiğiniz "american.gxt" dosyasıyla değiştirin.
 
 NELER EKSIK?
--Oyun içindeki telefon konuşmalarının yarısı
--Bazı görev içi yönergeler / öğretici yönergeler
+-Bazı oyun içi yönergeler / öğretici yönergeler
 -Bazı görev isimleri
 -İstatistikler bölümünün bazı kısımları
 -Kontrol şeması
@@ -26,12 +25,11 @@ PEKİ TAMAMLAMAYI DÜŞÜNÜYOR MUSUN?
 EN:
 Grand Theft Auto Vice City Turkish Language Pack v1.0
 
-WARNING: This language pack is not completed yet. The progress should be at %85. May include inappropriate language.
+WARNING: This language pack is not completed yet. The progress should be at %95. May include inappropriate language.
 HOW TO INSTALL: Go to "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" folder and change the "american.gxt" file with the new "american.gxt" file you downloaded.
 
 WHAT IS MISSING?
--Half of the in-game phonecalls
--Some mission/tutorial instructions
+-Some in game /tutorial instructions
 -Some of the mission names
 -Some parts in statistics section
 -The control scheme
