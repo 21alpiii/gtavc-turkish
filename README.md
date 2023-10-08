@@ -1,7 +1,7 @@
 # gtavc-turkish
 
 TR:
-Grand Theft Auto Vice City Türkçe Dil Paketi v1.0
+Grand Theft Auto Vice City Türkçe Dil Paketi v1.1
 
 UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %95 lik bir kısmı Türkçe'ye çevrilmiştir. Uygunsuz dil içerebilir.
 
