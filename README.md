@@ -1,45 +1,36 @@
 # gtavc-turkish
 
 TR:
-Grand Theft Auto Vice City Türkçe Dil Paketi v1.1
+Grand Theft Auto Vice City Türkçe Dil Paketi v1.2
 
-UYARI: Bu yama henüz tamamlanmamıştır. Tahminimce oyunun %95 lik bir kısmı Türkçe'ye çevrilmiştir. Uygunsuz dil içerebilir.
+Uygunsuz dil içerir.
 
 KURULUM: "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" klasörüne gidin, ve "american.gxt" dosyasını indirdiğiniz "american.gxt" dosyasıyla değiştirin.
 
-NELER EKSIK?
--Bazı oyun içi yönergeler / öğretici yönergeler
--Bazı görev isimleri
--İstatistikler bölümünün bazı kısımları
--Kontrol şeması
+UYARI: BU YAMA TEST EDİLMEMİŞTİR. ÇEVİRİ HATALARIYLA KARŞILAŞABİLİRSİNİZ.
 
-EĞER BU KADAR ŞEY EKSİKSE NEDEN YAYINLADIN?
--Bir aydır bunu yayınlamayı düşünüyorum ama üzerinde ne kadar çalışırsam geriye kalan kısmı çevirmek o kadar zorlaşıyor. Zaten, bugünlerde şirketlerin hiçbirisi tamamlanmış oyun yayınlamıyor ki.
-Buna rağmen insanlar oyunları satın almaya devam ediyorlar. Bazıları oyunlarını zamanla düzeltiyorlar, bazıları bunu bile yapmıyor. Buradaki olay bu. Aradaki tek fark benim sizden para istemiyor oluşum.
+TEST EDİLMEMİŞSE NEDEN YAYINLADIN?
+-Çünkü test edecek zamanım yok ve bu işten para kazanmıyorum. Ayrıca bugünlerde koskoca oyun stüdyoları oyunlarını test etmeden 60 dolardan satıyorlar. Ben para bile almıyorum.
 
-PEKİ TAMAMLAMAYI DÜŞÜNÜYOR MUSUN?
--Planım günde 15-20 dakika ayırıp geri kalan kısımları da çevirmek.
+PEKİ TEST ETMEYİ DÜŞÜNÜYOR MUSUN?
+-Bu oyunu senede bir baştan bitiriyorum. Eğer oynarken bir hatayla karşılaşırsam düzelteceğim.
 
 ###########################################################################################################
 
 EN:
-Grand Theft Auto Vice City Turkish Language Pack v1.0
+Grand Theft Auto Vice City Turkish Language Pack v1.2
 
-WARNING: This language pack is not completed yet. The progress should be at %95. May include inappropriate language.
+Includes inappropriate language.
+
 HOW TO INSTALL: Go to "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto Vice City\TEXT" folder and change the "american.gxt" file with the new "american.gxt" file you downloaded.
 
-WHAT IS MISSING?
--Some in game /tutorial instructions
--Some of the mission names
--Some parts in statistics section
--The control scheme
+WARNING: THIS LANGUAGE PACK HASN'T BEEN TESTED. YOU MAY ENCOUNTER TRANSLATION ERRORS.
 
-IF THIS MUCH STUFF IS MISSING WHY ARE YOU RELEASING IT?
--This is haunting me for a month. And more it gets close to release, harder it gets to work on it. Besides, companies never release finished games after all. And people keep buying them. Some fix
-their game slowly; some don't even bother. That is the case here. Only difference is that I do not charge any penny.
+WHY DID YOU RELEASE IT IF YOU DIDN'T TEST IT?
+-I don't have time to test it, and I don't make any money off it. Besides, nowadays, the biggest game studios don't even test their games, and they sell it for 60 bucks. I don't even want any money.
 
-WILL THIS EVER BE COMPLETED?
--My plan is to spend 15-20 minutes everyday on remaining untranslated part.
+WILL YOU EVER TEST IT?
+-I play this game from start to finish almost every year. If I encounter any errors during my gameplay, I will fix them.
 
 SCREENSHOTS / EKRAN GÖRÜNTÜLERİ
 
